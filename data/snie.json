@@ -1,0 +1,95 @@
+{
+	"name": "snie",
+	"children": [
+		{
+			"name": "home",
+			"src": "templates/sample-subpage.html"
+		},
+
+		{
+			"name": "projects",
+			"children": [
+				{
+					"name": "vis leetcode",
+					"children": [
+						{
+							"name": "perfect squares",
+							"src": "templates/sample-subpage.html"
+						}
+					]
+				},
+
+				{
+					"name": "vis deepnet",
+					"src": "templates/sample-subpage.html"
+				}
+			]
+		},
+
+		{
+			"name": "poetry",
+			"children": [
+				{
+					"name": "镜中",
+					"src": "templates/jing-zhong.html"
+				},
+
+				{
+					"name": "当你老了",
+					"src": "templates/when-you-are-old.html"
+
+				},
+
+				{
+					"name": "亚当的诅咒",
+					"src": "templates/the-curse-of-adam.html"
+				}
+			]
+		},
+
+		{
+			"name": "writing",
+			"children": [
+				{
+					"name": "article1",
+					"src": "templates/sample-subpage.html"
+				},
+
+				{
+					"name": "article2",
+					"src": "templates/sample-subpage.html"
+				},
+
+				{
+					"name": "article3",
+					"src": "templates/sample-subpage.html"
+				},
+
+				{
+					"name": "article4",
+					"src": "templates/sample-subpage.html"
+				},
+
+				{
+					"name": "article5",
+					"src": "templates/sample-subpage.html"
+				},
+
+				{
+					"name": "article6",
+					"src": "templates/sample-subpage.html"
+				},
+
+				{
+					"name": "article7",
+					"src": "templates/sample-subpage.html"
+				},
+
+				{
+					"name": "article8",
+					"src": "templates/sample-subpage.html"
+				}
+			]
+		}
+	]
+}
